@@ -32,11 +32,10 @@
 <br />
 <br />
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[website]: https://stefannarts.net
+[twitter]: https://twitter.com/stefanartsdev
+[youtube]: https://youtube.com/StefanArtsDev
+[instagram]: https://instagram.com/stefanartsdev
 
 <!--
 **StefanArts/StefanArts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
