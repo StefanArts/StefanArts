@@ -31,9 +31,6 @@
 
 <br />
 <br />
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="StefanArts's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=StefanArts&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
