@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ 18 years old, from Germany
 - 📫 Reach me: info@stefanarts.net
+- My GPG <a href="https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xa63333e8649b0cd4">here</a>
 
 ### Connect with me:
 
