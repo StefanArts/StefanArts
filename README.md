@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning TypeScript, Spring and Angular
 - 😄 I want to learn MongoDB, React, Electron, TailwindCSS and a lot more in the future
-- 👯 I am part of codeqo Development&nbsp;&nbsp; [<img src="https://img.shields.io/badge/codeqo.net-Website-lime" />][codeqo]
+- 👯 I am part of codeqo Development&nbsp;&nbsp;
 - ⚡ 18 years old volunteer from Germany living in Toronto
 - 💬 If you want to work on something together, message me!
 - 📫 Contact: stefanarts@codeqo.net
