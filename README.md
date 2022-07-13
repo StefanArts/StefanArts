@@ -11,7 +11,7 @@
 - My GPG <a href="https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xa63333e8649b0cd4">here</a>
 
 ### Connect with me:
-[<img style="color: #1773eb" alt="Codeqo" width="50px" src="https://get.codeqo.net/images/logo_text.png">][codeqo]
+[<img style="color: #1773eb" alt="Codeqo" height="50px" src="https://get.codeqo.net/images/logo_text.png">][codeqo]
 [<img style="color: #1773eb" alt="StefanArts.net" width="50px" src="https://avatars.githubusercontent.com/u/31769372?v=4">][website]
 [<img style="color: #1773eb" alt="YouTube" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_white_squircle.svg/768px-YouTube_social_white_squircle.svg.png">][youtube]
 [<img style="color: #1773eb" alt="Twitter" width="50px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png">][twitter]
