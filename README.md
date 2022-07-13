@@ -4,15 +4,15 @@
 
 - 🌱 I’m currently learning TypeScript, Spring and Angular
 - 😄 I want to learn MongoDB, React, Electron, TailwindCSS and a lot more in the future
-- 👯 I am part of codeqo Development&nbsp;&nbsp;
+- 👯 I am part of Codeqo&nbsp;&nbsp;
 - ⚡ 18 years old volunteer from Germany living in Toronto
 - 💬 If you want to work on something together, message me!
-- 📫 Contact: stefanarts@codeqo.net
+- 📫 Contact: stefan@codeqo.net
 - My GPG <a href="https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xa63333e8649b0cd4">here</a>
 
 ### Connect with me:
+[<img style="color: #1773eb" alt="Codeqo" width="50px" src="https://get.codeqo.net/images/logo-text.png">][codeqo]
 [<img style="color: #1773eb" alt="StefanArts.net" width="50px" src="https://avatars.githubusercontent.com/u/31769372?v=4">][website]
-[<img style="color: #1773eb" alt="Codeqo" width="50px" src="https://codeqo.net/img/logo.png">][codeqo]
 [<img style="color: #1773eb" alt="YouTube" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_white_squircle.svg/768px-YouTube_social_white_squircle.svg.png">][youtube]
 [<img style="color: #1773eb" alt="Twitter" width="50px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png">][twitter]
 [<img style="color: #1773eb" alt="Instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png">][instagram]
