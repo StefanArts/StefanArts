@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning TypeScript, Spring and Angular
 - 😄 I want to learn MongoDB, React, Electron, TailwindCSS and a lot more in the future
 - 👯 I am part of Codeqo&nbsp;&nbsp;
-- ⚡ 18 years old volunteer from Germany living in Toronto
+- ⚡ 19 years old student from Germany living in Aachen
 - 💬 If you want to work on something together, message me!
 - 📫 Contact: stefan@codeqo.net
 - My GPG <a href="https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xa63333e8649b0cd4">here</a>
