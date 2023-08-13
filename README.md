@@ -1,4 +1,4 @@
-### Hey, I am Stefan... Stefan[Arts][website] 👋
+### Hey, I am Stefan... StefanArts 👋
 
 ## Developer, system administrator and student
 
@@ -10,11 +10,8 @@
 
 ### Connect with me:
 [<img style="color: #1773eb" alt="Codeqo" height="50px" src="https://get.codeqo.net/images/logo_text.png">][codeqo]
-[<img style="color: #1773eb" alt="StefanArts.net" width="50px" src="https://avatars.githubusercontent.com/u/31769372?v=4">][website]
 [<img style="color: #1773eb" alt="YouTube" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_white_squircle.svg/768px-YouTube_social_white_squircle.svg.png">][youtube]
 [<img style="color: #1773eb" alt="Twitter" width="50px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png">][twitter]
-[<img style="color: #1773eb" alt="Instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png">][instagram]
-[<img style="color: #1773eb" alt="Linktree" width="50px" src="https://img.icons8.com/color/480/linktree.png">][linktree]
 <br>
 ### Languages and Tools:
 
@@ -25,12 +22,9 @@
 <br />
 <br />
 
-[website]: https://stefannarts.net
 [twitter]: https://twitter.com/stefanartsdev
 [youtube]: https://youtube.com/StefanArtsDev
-[instagram]: https://instagram.com/stefanartsdev
 [codeqo]: https://codeqo.net
-[linktree]: https://linktr.ee/stefanarts
 
 [![Stefans's GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanArts&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
