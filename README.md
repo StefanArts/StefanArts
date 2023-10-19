@@ -27,7 +27,7 @@
 
 [<img style="border:0 none;" width=80 alt="I Use Firefox" src="https://code.cdn.mozilla.net/for-firefox/badges/assets/I-Use-Firefox.png">][firefox] &nbsp;&nbsp;
 [<img width=100 src="https://blog.thunderbird.net/files/2023/05/1024x1024@2x.png" alt="Thunderbird">][thunderbird] &nbsp;&nbsp;
-[<img width=150 src="https://bitwarden.com/images/bitwarden-og.png" alt="Bitwarden">][bitwarden] &nbsp;&nbsp;
+[<img width=150 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bitwarden_logo.svg/2560px-Bitwarden_logo.svg.png" alt="Bitwarden">][bitwarden] &nbsp;&nbsp;
 [<img width=100 src="https://www.jetbrains.com/company/brand/img/jetbrains_logo.png" alt="Jetbrains">][jetbrains]
 
 <br />
