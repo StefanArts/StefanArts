@@ -1,11 +1,5 @@
-![Header](https://get.codeqo.net/github-header-image.png)
-### I'm Stefan... StefanArts 👋
-
-## Developer, system administrator and student
-
-- ⚡ Student from Germany living in Aachen
-- 👯 I am part of Codeqo&nbsp;&nbsp;
-- 💬 If you want to work on something together, message me!
+### Stefan 👋
+- ⚡ Student at RWTH University
 - 📫 Contact: stefan@codeqo.net
 - My GPG <a href="https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xa63333e8649b0cd4">here</a>
 
@@ -13,8 +7,6 @@
 
 ### Connect with me:
 [<img style="color: #1773eb" alt="Codeqo" height="50px" src="https://get.codeqo.net/images/logo_text.png">][codeqo]
-[<img style="color: #1773eb" alt="YouTube" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_white_squircle.svg/768px-YouTube_social_white_squircle.svg.png">][youtube]
-[<img style="color: #1773eb" alt="Twitter" width="50px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png">][twitter]
 <br>
 ### Languages and Tools:
 
@@ -37,9 +29,6 @@ My favourite hoster: [Hetzner](https://www.hetzner.com/) <br />
 List of great selfhosted software: [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 <br />
 
-
-[twitter]: https://twitter.com/stefanartsdev
-[youtube]: https://youtube.com/StefanArtsDev
 [codeqo]: https://codeqo.net
 [firefox]: https://www.mozilla.org/de/firefox/
 [thunderbird]: https://www.thunderbird.net/
@@ -50,17 +39,3 @@ List of great selfhosted software: [awesome-selfhosted](https://github.com/aweso
 
 [![Stefans's GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanArts&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**StefanArts/StefanArts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
